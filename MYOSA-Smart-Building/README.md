@@ -177,9 +177,14 @@ Future improvements can include:
 
 DEMO VIDEO
 
+## Demo Video
+
 <video controls width="100%">
-  <source src="/videos/demo_video.mp4" type="video/mp4">
+  <source src="./videos/demo_video.mp4" type="video/mp4">
 </video>
+
+### Direct Video Access
+[Click here to open the demo video](./videos/demo_video.mp4)
 
 
 MYOSA-Smart-Building/
