@@ -117,7 +117,7 @@ Future improvements can include:
 ## Demo Video
 
 <video controls width="100%">
-  <source src="./videos/demo_video.mp4" type="video/mp4">
+  <source src="./videos/demo_videos.mp4" type="video/mp4">
 </video>
 
 
