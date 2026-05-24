@@ -1,9 +1,19 @@
-Date 24-05-2026
+---
+publishDate: 2026-05-24
 
-MYOSA Smart Building Monitoring and Safety System
+title: MYOSA Smart Building Monitoring and Safety System
 
+excerpt: IoT-based smart building monitoring system using ESP32 and multiple environmental and structural sensors.
 
 <img src="./assets/images/project_views/cover.jpg" width="900">
+tags:
+  - IoT
+  - ESP32
+  - Smart Building
+  - Safety Monitoring
+---
+
+> Real-time IoT smart building monitoring and structural safety system using ESP32.
 
 Introduction
 
@@ -16,6 +26,12 @@ Problem Statement
 Modern buildings and infrastructures are vulnerable to environmental changes, abnormal vibrations, structural movement, and safety risks. Traditional monitoring systems are often expensive and inaccessible for small-scale applications.
 
 This project aims to develop a compact, affordable, and efficient smart monitoring system capable of detecting abnormal structural conditions and providing real-time alerts using IoT technology.
+
+## How It Works
+
+The ESP32 collects data from MPU6050, BMP180, and APDS9960 sensors. 
+The OLED displays live monitoring values while the Blynk IoT platform provides remote visualization and alerts. 
+The buzzer activates during abnormal tilt or vibration conditions.
 
 Objectives
 
@@ -196,70 +212,11 @@ DEMO VIDEO
 ### Direct Video Access
 [Click here to open the demo video](./videos/demo_video.mp4)
 
-
-MYOSA-Smart-Building/
-
-
-│
-
-
+myosa-smart-building-monitoring-system/
 ├── README.md
-
-
-│
-
-
 ├── code/
-
-
-│   └── smart_building.ino
-
-
-│
-
-
 ├── assets/
-
-
-│   └── images/
-
-
-│       ├── project_views/
-
-
-│       ├── oled_interface/
-
-
-│       ├── app_blynk/
-
-
-│       ├── alerts/
-
-
-│       └── sensors/
-
-
-│
-
-
 ├── videos/
-
-
-│   └── demo_video.mp4
-
-
-│
-
-
 └── docs/
 
 
-    └── circuit_diagram.png
-
-    
-    
-Conclusion
-
-The MYOSA Smart Building Monitoring and Safety System demonstrates the implementation of IoT technology for real-time structural and environmental monitoring. The project successfully integrates multiple sensors, OLED visualization, cloud connectivity, and emergency alert systems into a compact and efficient monitoring platform.
-
-The system provides an affordable and scalable solution for smart safety monitoring applications.
