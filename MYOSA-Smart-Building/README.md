@@ -5,7 +5,8 @@ title: MYOSA Smart Building Monitoring and Safety System
 
 excerpt: IoT-based smart building monitoring system using ESP32 and multiple environmental and structural sensors.
 
-<img src="./assets/images/project_views/cover.jpg" width="900">
+image: assets/images/project_views/cover.jpg
+
 tags:
   - IoT
   - ESP32
