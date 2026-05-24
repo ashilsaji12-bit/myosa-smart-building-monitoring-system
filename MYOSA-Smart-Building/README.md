@@ -14,6 +14,8 @@ Modern buildings and infrastructures are vulnerable to environmental changes, ab
 This project aims to develop a compact, affordable, and efficient smart monitoring system capable of detecting abnormal structural conditions and providing real-time alerts using IoT technology.
 
 Objectives
+
+
 .Real-time structural monitoring
 
 .Tilt and vibration detection
@@ -90,24 +92,41 @@ Sensors Used
 <img src="./assets/images/sensors/oled.jpg" width="800">
 
 <img src="./assets/images/sensors/ESP32.jpg" width="800">
+
+
 OLED Monitoring Interface
+
+
 Environmental Monitoring
+
 <img src="./assets/images/oled_interface/environment_monitor.jpg" width="700">
 Light Sensor Monitoring
+
 <img src="./assets/images/oled_interface/light_sensor.jpg" width="700">
 Network Status
+
 <img src="./assets/images/oled_interface/network_status.jpg" width="700">
 Live Tilt Monitoring
+
 <img src="./assets/images/oled_interface/tilt_live.jpg" width="700">
+
 Alert System
+
 Earthquake Detection
+
 <img src="./assets/images/alerts/earthquake_alert.jpg" width="700">
 Tilt Monitoring Alert
+
 <img src="./assets/images/alerts/tilt_monitor.jpg" width="700">
+
 Wall break status
+
 <img src="./assets/images/alerts/wallbreak_alert.jpg" width="700">
+
 Blynk IoT Dashboard
+
 Mobile Dashboard
+
 <img src="./assets/images/app_blynk/blynk1_.jpg" width="800">
 
 <img src="./assets/images/app_blynk/blynk2.jpg" width="800">
