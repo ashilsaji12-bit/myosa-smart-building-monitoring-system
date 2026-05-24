@@ -15,22 +15,40 @@ This project aims to develop a compact, affordable, and efficient smart monitori
 
 Objectives
 .Real-time structural monitoring
+
 .Tilt and vibration detection
+
 .Earthquake alert monitoring
+
 .Environmental temperature and pressure monitoring
+
 .Ambient light sensing
+
 .OLED-based local monitoring
+
 .IoT-based remote monitoring using Blynk
+
 .Emergency buzzer alert system
+
 .Smart safety monitoring solution
+
+
 Components Used
-Component	   Purpose
+
+Component	    Purpose
+
 .ESP32	       Main microcontroller and WiFi communication
+
 .MPU6050	   Tilt, vibration, and earthquake detection
+
 .BMP180	       Temperature and pressure monitoring
+
 .APDS9960	   Ambient light sensing
+
 .OLED Display  Local real-time monitoring
+
 .Buzzer	       Emergency alert indication
+
 .Blynk         IoT Platform	Remote cloud monitoring
 
 Working Principle
@@ -42,14 +60,23 @@ All sensor readings are displayed locally through the OLED display and simultane
 Features
 
 .Real-time sensor monitoring
+
 .OLED live monitoring interface
+
 .WiFi-enabled IoT connectivity
+
 .Remote monitoring using Blynk
+
 .Tilt angle monitoring
+
 .Earthquake and vibration detection
+
 .Temperature and pressure monitoring
+
 .Ambient light sensing
+
 .Emergency buzzer alerts
+
 .Live cloud dashboard visualization
 
 Project Architecture
@@ -88,18 +115,27 @@ Mobile Dashboard
 Software Used
 
 .Arduino IDE
+
 .ESP32 Board Package
+
 .Blynk IoT Platform
+
 .GitHub
+
 .Embedded C++
 
 Applications
 
 .Smart building monitoring
+
 .Structural safety systems
+
 .Educational IoT projects
+
 .Smart infrastructure monitoring
+
 .Real-time environmental monitoring
+
 .Earthquake and vibration analysis
 
 Future Scope
@@ -107,11 +143,17 @@ Future Scope
 Future improvements can include:
 
 .Smoke and gas leak detection
+
 .AI-based structural prediction systems
+
 .CCTV integration
+
 .Smart city infrastructure integration
+
 .Cloud data analytics
+
 .Mobile push notification system
+
 .Advanced automation systems
 
 ## Demo Video
