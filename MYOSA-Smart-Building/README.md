@@ -181,9 +181,8 @@ Future improvements can include:
   <source src="./videos/demo_video.mp4" type="video/mp4">
 </video>
 
-If the video player does not appear, open directly here:
-
-[Open Demo Video](./videos/demo_video.mp4)
+### Direct Video Access
+[Click here to open the demo video](./videos/demo_video.mp4)
 
 
 
