@@ -1,6 +1,8 @@
 Date 24-05-2026
 
 MYOSA Smart Building Monitoring and Safety System
+
+
 <img src="./assets/images/project_views/cover.jpg" width="900">
 
 Introduction
