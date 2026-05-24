@@ -1,6 +1,8 @@
 Date 24-05-2026
+
 MYOSA Smart Building Monitoring and Safety System
 <img src="./assets/images/project_views/cover.jpg" width="900">
+
 Introduction
 
 The MYOSA Smart Building Monitoring and Safety System is an IoT-based real-time structural monitoring solution developed using ESP32 and multiple smart sensors. The project is designed to improve building safety by continuously monitoring environmental conditions, vibration intensity, structural tilt, light levels, and emergency situations using embedded electronics and cloud connectivity.
