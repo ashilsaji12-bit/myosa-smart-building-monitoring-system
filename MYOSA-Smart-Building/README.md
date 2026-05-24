@@ -14,6 +14,9 @@ tags:
   - Safety Monitoring
 ---
 
+<img src="./assets/images/project_views/cover.jpg" width="900">
+
+> Real-time IoT smart building monitoring and structural safety system using ESP32.
 > Real-time IoT smart building monitoring and structural safety system using ESP32.
 
 Introduction
