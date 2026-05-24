@@ -114,14 +114,15 @@ Future improvements can include:
 .Mobile push notification system
 .Advanced automation systems
 
-Demo Video
-
-The demo video of the project is available inside:
+## Demo Video
 
 <video controls width="100%">
   <source src="./videos/demo_video.mp4" type="video/mp4">
 </video>
 
+If the video player does not appear, open directly here:
+
+[Open Demo Video](./videos/demo_video.mp4)
 File structure
 
 MYOSA-Smart-Building/
