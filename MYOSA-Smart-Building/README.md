@@ -175,14 +175,11 @@ Future improvements can include:
 
 .Advanced automation systems
 
-## Demo Video
-
-<video controls width="100%">
-  <source src="./videos/demo_video.mp4" type="video/mp4">
-</video>
-
-### Direct Video Access
-[Click here to open the demo video](./videos/demo_video.mp4)
+<p align="center">
+  <video width="100%" controls>
+    <source src="videos/demo_video.mp4" type="video/mp4">
+  </video>
+</p>
 
 
 
