@@ -217,10 +217,19 @@ DEMO VIDEO
 [Click here to open the demo video](./videos/demo_video.mp4)
 
 myosa-smart-building-monitoring-system/
+
+file structure
+
+
 ├── README.md
+
 ├── code/
+
 ├── assets/
+
 ├── videos/
+
 └── docs/
+
 
 
